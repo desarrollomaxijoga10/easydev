@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card, CardBody, Col } from 'reactstrap';
-import { Polar } from 'react-chartjs-2';
+import Polar from 'react-chartjs-2';
 import { withTranslation } from 'react-i18next';
 import PropTypes from 'prop-types';
 

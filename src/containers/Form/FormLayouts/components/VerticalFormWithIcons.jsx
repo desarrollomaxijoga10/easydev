@@ -8,7 +8,7 @@ import PropTypes from 'prop-types';
 
 import EyeIcon from 'mdi-react/EyeIcon';
 import AccountOutlineIcon from 'mdi-react/AccountOutlineIcon';
-import MailRuIcon from 'mdi-react/MailRuIcon';
+import MailRuIcon from 'mdi-react/MailIcon';
 import WebIcon from 'mdi-react/WebIcon';
 import KeyVariantIcon from 'mdi-react/KeyVariantIcon';
 import renderCheckBoxField from '../../../../shared/components/form/CheckBox';

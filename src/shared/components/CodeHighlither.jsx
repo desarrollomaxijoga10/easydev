@@ -1,6 +1,6 @@
 import React, { PureComponent } from 'react';
-import SyntaxHighlighter from 'react-syntax-highlighter/prism';
-import { darcula } from 'react-syntax-highlighter/styles/prism';
+import SyntaxHighlighter from 'react-syntax-highlighter';
+import darcula from 'react-syntax-highlighter';
 import PropTypes from 'prop-types';
 
 export default class CodeHighlither extends PureComponent {

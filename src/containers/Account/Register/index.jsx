@@ -2,7 +2,7 @@ import React, { PureComponent } from 'react';
 import PropTypes from 'prop-types';
 import { Link } from 'react-router-dom';
 import { withRouter } from 'react-router';
-import * as firebase from 'firebase/app';
+import firebase from 'firebase/app';
 import RegisterForm from '../../../shared/components/login/RegisterForm';
 
 class Register extends PureComponent {

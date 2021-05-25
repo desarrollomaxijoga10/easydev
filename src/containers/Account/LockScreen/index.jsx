@@ -1,4 +1,3 @@
-import React from 'react';
 import LockScreenForm from './components/LockScreenForm';
 
 const Ava = `${process.env.PUBLIC_URL}/img/11.png`;

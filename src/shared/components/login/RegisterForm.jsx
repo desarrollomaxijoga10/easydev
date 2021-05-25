@@ -3,7 +3,7 @@ import { Field, reduxForm } from 'redux-form';
 import EyeIcon from 'mdi-react/EyeIcon';
 import KeyVariantIcon from 'mdi-react/KeyVariantIcon';
 import AccountOutlineIcon from 'mdi-react/AccountOutlineIcon';
-import MailRuIcon from 'mdi-react/MailRuIcon';
+import MailRuIcon from 'mdi-react/MailIcon';
 import { Button, Alert } from 'reactstrap';
 import PropTypes from 'prop-types';
 

@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { withRouter } from 'react-router';
 import { connect } from 'react-redux';
-import * as firebase from 'firebase/app';
+import firebase from 'firebase/app';
 import PropTypes from 'prop-types';
 import ModalLoginForm from '../ModalLoginForm';
 import { auth, authError } from '../../../redux/actions/authActions';

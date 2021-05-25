@@ -1,7 +1,6 @@
 import React from 'react';
 import { Route, Switch } from 'react-router-dom';
 import MainWrapper from '../MainWrapper';
-import Landing from '../../Landing/index';
 import NotFound404 from '../../DefaultPage/404/index';
 import LockScreen from '../../Account/LockScreen/index';
 import LogIn from '../../Account/LogIn/index';
